@@ -1,0 +1,3 @@
+# github_practice
+learning to use github
+Hello, trying to push and pull this...
